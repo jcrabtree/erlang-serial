@@ -1,0 +1,8 @@
+{application, serial,
+              [{description, ""},
+              {vsn, "1.1"},
+              {registered, []},
+              {applications, [kernel,
+                             stdlib]},
+              {env, []}]
+}.
